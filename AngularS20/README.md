@@ -1,2 +1,2 @@
-# Sesion 20 y 21 Angular
+# Sesion 20
 Interceptors and Guards
